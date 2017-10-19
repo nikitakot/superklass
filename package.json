@@ -47,6 +47,7 @@
     "@angularclass/hmr-loader": "^3.0.2",
     "@types/jasmine": "^2.5.41",
     "@types/jquery": "^3.2.15",
+    "@types/bootstrap": "^3.3.36",
     "@types/node": "^6.0.38",
     "@types/selenium-webdriver": "2.53.39",
     "angular2-template-loader": "^0.6.0",
